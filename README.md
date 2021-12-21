@@ -71,7 +71,7 @@ TODO:
 
 ### y go it alone
 
-i am avi ur philosopher king architect engineer and i will be ~softly~ guiding streamforthepeople in it's transitionary period to fulfilling the core principles, henceforth, the pre ownership transfer period
+i am avi ur philosopher king architect engineer and i will be \~softly\~ guiding streamforthepeople in it's transitionary period to fulfilling the core principles, henceforth, the pre ownership transfer period
 
 ur prolly wondering y i would go it alone
 1. it's my baby (and i can do whatever i want w my baby because i brought it into this world)

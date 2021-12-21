@@ -1,6 +1,6 @@
 # the philosophy of streamforthepeople
 
-**streamforthepeople** is a **streamer website as a service**
+[**streamforthepeople**](https://streamforthepeople.com) is a **streamer website as a service**
 
 This document discusses its philosophy. **TLDR**: see the [core principles](#core-principles)
 

@@ -69,29 +69,6 @@ TODO:
 - how can this be achieved
 - the way i will assist in achieving it
 
-### y go it alone
-
-i am avi ur philosopher king architect engineer and i will be \~softly\~ guiding streamforthepeople in it's transitionary period to fulfilling the core principles, henceforth, the pre ownership transfer period
-
-ur prolly wondering y i would go it alone
-1. it's my baby (and i can do whatever i want w my baby because i brought it into this world)
-1. to enrich myself ($$$)
-1. because the scope of the requirements are extremely (relatively) limited + modern tooling empowers the individual to effectively manage massively scalable automated systems
-1. i won't not go it alone (get fucked, die mad)
-1. pros/cons of multiple ppl
-    - pros:
-        - features get developed faster
-        - more adhoc support
-        - support backlog gets processed faster
-        - \>1 minds are greater than 1?
-        - no single point of failure (resiliency to me dying, prolly getting murdered by the stream service providers)
-    - cons:
-        - non unified vision
-        - acquiring someone who would actually aspire to fulfilling the ownership transfer principle
-        - i make less money (cringe)
-        - management of profit spread/work inequality
-        - individuals may not be generalist
-        - many potential angries
 
 ## streamforthepeople's cut
 In the pre ownership transfer period, streamforthepeople will take 15% of subscriptions and 5% of donations. My justification for the 15% is that Patreon simply functions as a consolidated subscription platform with an aggregator and [takes 5%](https://www.patreon.com/pricing), so since streamforthepeople does this and also provides streamer website features, it certainly warrants more. How I got to 15% specifically is because I would feel uncomfortable taking a percentage with a 2 as the first number because 2 is twice as big as 1 and therefore seems excessive; the first number being a 1 feels a lot more reasonable. So I think the number in the middle of 10 and 20 is a nice compromise. For the 5% of donations, this is just parity with Patreon. Note that in the post ownership transfer period, the streamer's guild will democratically decide its member's dues, which will certainly be less than cuts above.
